@@ -1,5 +1,3 @@
- 
-
 const textToConvert = document.getElementById('text-to-convert11');
 const languageSelector111 = document.getElementById('language-selector111');
 const startButton = document.getElementById('start-button');
